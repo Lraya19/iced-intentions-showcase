@@ -2,7 +2,7 @@
 
 The website for **Iced Intentions** — a specialty coffee brand — built as a three-page React experience with online ordering, real-time pickup-slot booking, and event inquiry handling. The goal was to make it feel less like a template coffee-shop page and more like a real product someone could actually order from.
 
-🔗 **Live site:** [icedintention.com](https://icedintentions.com)
+🔗 **Live site:** [icedintentions.com](https://icedintentions.com)
 
 ## ✨ Technologies
 
